@@ -1,0 +1,304 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "ሐቤ ምዕት ",
+            "last_name": "መቶ አለቃ ",
+            "email": "prefect, first lieutenant"
+        },
+        {
+            "id": 2,
+            "first_name": "ሐዋጺ",
+            "last_name": "ሰላይ፤ ጎብኝ",
+            "email": "spy, scout tourist "
+        },
+        {
+            "id": 3,
+            "first_name": "ሐታቴ ግብር ",
+            "last_name": "አማካሪ፤ ፈታኝ፣ ሥራ መርማሪ ",
+            "email": "adviser, consultant; assessor, evaluator, inspector"
+        },
+        {
+            "id": 4,
+            "first_name": "ሐታቴ መዝገብ",
+            "last_name": "መዝገብ መርማሪ ",
+            "email": "inspector "
+        },
+        {
+            "id": 5,
+            "first_name": "ጽራዑ ",
+            "last_name": "ወገብ ፣ ጭንና ከዳሌ በላይ ከጎድን በታች ",
+            "email": "tooth "
+        },
+        {
+            "id": 6,
+            "first_name": "ፅርስ ",
+            "last_name": "ጥርስ፣ ክራንች፣ መንጋጋ ",
+            "email": "tooth "
+        },
+        {
+            "id": 7,
+            "first_name": "ፅኑ0 ክሳድ ",
+            "last_name": "አንገተ ደንዳና  ",
+            "email": "stiff – necked "
+        },
+        {
+            "id": 8,
+            "first_name": "ፅንስ",
+            "last_name": "ሽል",
+            "email": "fetus"
+        },
+        {
+            "id": 9,
+            "first_name": "ፅፍሮ ",
+            "last_name": "የጠጉር ሥራ፣ ሹርባ፣ ዓይነ ርግብ፣ የጠጉር ጌጥ ",
+            "email": "hair style "
+        },
+        {
+            "id": 10,
+            "first_name": "ፈለገ አንፍ ",
+            "last_name": "nasal cavity ",
+            "email": "nasal cavity"
+        },
+        {
+            "id": 11,
+            "first_name": "ፍሱስ",
+            "last_name": "ግንባር፣ ፊት",
+            "email": "cross – eyed, squinted - eye"
+        },
+        {
+            "id": 12,
+            "first_name": "ፍጽም ",
+            "last_name": "ግንባር፣ ፊት",
+            "email": "fore head"
+        },
+        {
+            "id": 13,
+            "first_name": "ሊቀ ፈያት ",
+            "last_name": "የወንበዴዎች አለቃ ",
+            "email": "chief of thieves"
+        },
+        {
+            "id": 14,
+            "first_name": "ሊቀ ፈያት ",
+            "last_name": "የወንበዴዎች አለቃ ",
+            "email": "chief of thieves"
+        },
+        {
+            "id": 15,
+            "first_name": "ሊቃናት  ",
+            "last_name": "በቁሙ፣ የመላእክት ስም",
+            "email": "Angel"
+        },
+        {
+            "id": 16,
+            "first_name": "የምትከተል",
+            "last_name": "በቁሙ፣ መምህር፣ ሹም፣ ጌታ፣ ሽማግሌ ጠቅላይ አገረ በበቅሎ ስትሄድ ከፊት ወይም ከኋላ ሆና የምታጅብ ",
+            "email": "maidservant, bride's maid, lady- in Waiting"
+        },
+        {
+            "id": 17,
+            "first_name": "ሎቃ",
+            "last_name": "ሊቅ፣ምሁር፣ ትምህርት የጠገበ ( የተማረ) በትምርትና በዕድሜ የበሰለ ፣ በዕውቀትና በጥበብ ብልጫ",
+            "email": ""
+        },
+        {
+            "id": 18,
+            "first_name": "ላዕላዊ ርእሰ ብሔር  ",
+            "last_name": "ጠቅላይ ሚኒስትር ",
+            "email": "prime miniter"
+        },
+        {
+            "id": 19,
+            "first_name": "ላዕላዊ ቤተ ንዋይ ",
+            "last_name": "ጠቅላይ ግምጃ ቤት",
+            "email": "head treasurer"
+        },
+        {
+            "id": 20,
+            "first_name": "ላዕላዊ ዐቃቤ ኅድዓት",
+            "last_name": "የፖሊስ ጠቅላይ  ቃና አዛዥ",
+            "email": "head police man"
+        },
+        {
+            "id": 21,
+            "first_name": "ላእከ ቤት",
+            "last_name": "የቤት አገልጋዮች",
+            "email": "ministers of the temple, servants of the temple "
+        },
+        {
+            "id": 22,
+            "first_name": "ላእክ",
+            "last_name": "መልክተኛ፣ አገልጋይ፣ ሎሌ ",
+            "email": "messenger, servant (male) "
+        },
+        {
+            "id": 23,
+            "first_name": "ገረድ፣ ደንገጡር፣ አሳሳች",
+            "last_name": "እመቤት (የእመቤቷን ዕቃ የምትሸከም ገረድ) ፣ እመቤታ",
+            "email": "before and behind"
+        },
+        {
+            "id": 24,
+            "first_name": "ሕምዝ",
+            "last_name": "ጭፍራ፣ ወታደር",
+            "email": " army, military"
+        },
+        {
+            "id": 25,
+            "first_name": "ሕምዝ",
+            "last_name": "ጭፍራ፣ ወታደር",
+            "email": " army, military"
+        },
+        {
+            "id": 26,
+            "first_name": "ሐራ",
+            "last_name": "ጭፍራ፣ ወታደር፣ ሽፍታ፣ መላእክት",
+            "email": "soldier, army, troop, host, angel soldiers"
+        },
+        {
+            "id": 27,
+            "first_name": "ሐራ ሰማይ",
+            "last_name": "የሰማይ ጭፍሮች",
+            "email": "the angelic host"
+        },
+        {
+            "id": 28,
+            "first_name": "ሐራ እንተ ዐስብ",
+            "last_name": "ቅጥረኛ ወታደር",
+            "email": "mercenary  army who is paid salary"
+        },
+        {
+            "id": 29,
+            "first_name": "ሐራ እንተ ዐስብ",
+            "last_name": "ቅጥረኛ ወታደር",
+            "email": "mercenary  army who is paid salary"
+        },
+        {
+            "id": 30,
+            "first_name": "ሐቃል",
+            "last_name": "አርበኛ፣ ቀማኛ፣ ዐዳኝ ",
+            "email": "strong man, robber"
+        },
+        {
+            "id": 31,
+            "first_name": "ሐቃል",
+            "last_name": "ባላገር፣ ዐራሽ፣ ዘላን -  ",
+            "email": "country man, native born, farmer, nomad"
+        },
+        {
+            "id": 32,
+            "first_name": "ሐቢ ፣ ሐበይት",
+            "last_name": " ሹም፣ አለቃ፣ ምስለኔ፣ እንደ ራሴ  ",
+            "email": "chief commander"
+        },
+        {
+            "id": 33,
+            "first_name": "ሐቤ ምዕት",
+            "last_name": "መቶ አለቃ",
+            "email": "prefect, first lieutenant  "
+        },
+        {
+            "id": 34,
+            "first_name": "ሐቤ ዐሠርቱ",
+            "last_name": "ዐሥር አለቃ ",
+            "email": "corporal "
+        },
+        {
+            "id": 35,
+            "first_name": "ሐቤ ዐሠርቱ ምዕት ",
+            "last_name": "ሻለቃ፣ የሽሕ ጦረኞች አለቃ ",
+            "email": "major battalion, chief of hundreds  "
+        },
+        {
+            "id": 36,
+            "first_name": "ሐታቴ መዝገብ",
+            "last_name": "መዝገብ መርማሪ",
+            "email": "inspector "
+        },
+        {
+            "id": 37,
+            "first_name": "ሐዋጺ",
+            "last_name": "ሰላይ፤ ጎብኝ",
+            "email": "title for the emperor of Ethiopia"
+        },
+        {
+            "id": 38,
+            "first_name": "ሐፄ",
+            "last_name": "አጤ",
+            "email": "title for the emperor of Ethiopia"
+        },
+        {
+            "id": 39,
+            "first_name": "ሕምዝ",
+            "last_name": "ጭፍራ፣ ወታደር",
+            "email": "army, military"
+        },
+        {
+            "id": 40,
+            "first_name": "ሐራ",
+            "last_name": "ጭፍራ፣ ወታደር፣ ሽፍታ፣ መላእክት",
+            "email": "soldier, army, troop, host, angel"
+        },
+        {
+            "id": 41,
+            "first_name": "ሐራ ሰማይ",
+            "last_name": "የሰማይ ጭፍሮች ",
+            "email": "(the celestial body) "
+        },
+        {
+            "id": 42,
+            "first_name": "ሐራ እንተ ዐስብ ",
+            "last_name": " ቅጥረኛ ወታደር",
+            "email": "mercenary army who is paid salary"
+        },
+        {
+            "id": 43,
+            "first_name": "ሐቃል",
+            "last_name": "አርበኛ፣ ቀማኛ፣ ዐዳኝ ",
+            "email": "strong man, robber"
+        },
+        {
+            "id": 44,
+            "first_name": "ሐቃል",
+            "last_name": "ባላገር፣ ዐራሽ፣ ዘላን - ",
+            "email": "country man, native born, farmer, nomad"
+        },
+        {
+            "id": 45,
+            "first_name": "ልሳን",
+            "last_name": "Eschweiler",
+            "email": "sebastian@codingthesmartway.com"
+        },
+        {
+            "id": 46,
+            "first_name": "መጸሐፍት",
+            "last_name": "Palmer",
+            "email": "steve@codingthesmartway.com"
+        },
+        {
+            "id": 47,
+            "first_name": "Ann",
+            "last_name": "Smith",
+            "email": "ann@codingthesmartway.com"
+        },
+        {
+            "id": 48,
+            "first_name": "Steve",
+            "last_name": "Abu",
+            "email": "haile@gmail.com"
+        },
+        {
+            "id": 49,
+            "first_name": "ሐቤ ዐሠርቱ ምዕት",
+            "last_name": "መዝገብ መርማሪ ",
+            "email": "inspector "
+        },
+        {
+            "id": 50,
+            "first_name": "ሐቤ ዐሠርቱ",
+            "last_name": "ዐሥር አለቃ",
+            "email": "corporal  "
+        }
+    ]
+}
